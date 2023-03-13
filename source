@@ -10,11 +10,11 @@ API_KEY = ''
 # Models: text-davinci-003,text-curie-001,text-babbage-001,text-ada-001
 MODEL = 'text-davinci-003'
 # Telegram secret access bot token
-BOT_TOKEN = '6133397520:AAFhrfy3ICR1Fhf3sanitHZKliqM1tATNHY'
+BOT_TOKEN = ''
 # Defining the bot's personality using adjectives
 BOT_PERSONALITY = 'Answer in a sarcastic tone, '
 # Specify your Chat Bot handle
-CHATBOT_HANDLE = '@GrumpAI_bot'
+CHATBOT_HANDLE = '@'
 
 
 # 2a. Function that gets the response from OpenAI's chatbot
